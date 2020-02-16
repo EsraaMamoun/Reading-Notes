@@ -4,4 +4,4 @@
 
 | Class | Link |
 | ----- | ---- |
-| class01 | [class01-url](https://esraamamoun.github.io/reading-notes/class01) |
+| class-01 | [class01-url](https://esraamamoun.github.io/reading-notes/class-01) |
