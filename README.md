@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-` This site about what we will learn in a new level about **programming** like *HTML*, *CSS*, & *JavaScript* `
+> This site about what we will learn in a new level about **programming** like *HTML*, *CSS*, & *JavaScript* `
 
 | Class | Link |
 | ----- | ---- |
