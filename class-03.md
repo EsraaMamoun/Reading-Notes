@@ -49,10 +49,20 @@ You can learn more about lists [Here](https://www.w3schools.com/html/html_lists.
 > Loops check a condition. if it returns true, a code will run. Then the condition will be checked again and if it still returns rtue, the code block will run again. It repeats until the condition returns false.
 *There are three common types; Each repeats a set of statements.*
 1. For: If we need to run code a specific number of times.--> we tell how many times the loop should run.
+
+
 ![.](https://cdn-media-1.freecodecamp.org/images/1*QoMetPjm8T-N9Ii8gfqvag.png)
+
+
 2. While: If we don't know how many times the code should run.
+
+
 ![.](https://espezua.github.io/blog/imgs/while-js.png)
+
+
 3. Do while: It is like while loop but the diffence things here the (do while) it will always run the statements inside the curly brces at least once, even if the condition evaluates to false.
+
+
 ![.](https://espezua.github.io/blog/imgs/do-while-js.png)
 
 
