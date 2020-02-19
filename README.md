@@ -8,3 +8,4 @@
 | class-02 | [class02-url](https://esraamamoun.github.io/reading-notes/class-02) |
 | class-03 | [class03-url](https://esraamamoun.github.io/reading-notes/class-03) |
 | class-04 | [class04-url](https://esraamamoun.github.io/reading-notes/class-04) |
+| class-05 | [class05-url](https://esraamamoun.github.io/reading-notes/class-05) |
