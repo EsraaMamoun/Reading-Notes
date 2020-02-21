@@ -28,8 +28,24 @@
 - Each object represents a different part of the page loaded in the browser window.
 
 
+
 2. DOCUMENT OBJECT MODEL ACCESSING AND CHANGING THE HTML PAGE
 
 - The DOM also defines methods and properties to access and update each object in this model, which in turn updates what the user sees in the browser.
 - we will hear people call the DOM an Application Programming Interface (API).
 - User interfaces let humans interact with programs; APls let programs (and scripts) talk to each other. The DOM states what our script can "ask the browser about the current page, and how to tell the browser to update what is being shown to the user. 
+
+
+![.](https://raw.githubusercontent.com/10Pines/ghost-storage/master/2018/08/Arbol.png)
+
+
+
+`DOM trees have four types of nodes: document nodes, element nodes, attribute nodes, and text nodes.`
+
+`We can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax.`
+
+`From an element node, we can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.`
+
+`An element node can contain multiple text nodes and child elements that are siblings of each other.`
+
+`Browsers offer tools for viewing the DOM tree. `
