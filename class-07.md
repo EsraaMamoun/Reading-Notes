@@ -42,7 +42,7 @@
 > The Document Object Model uses objects to create a representation of the current page. It creates a new object for each element (and each individual section of text) within the page. 
 
 ### GLOBAL JAVASCRIPT OBJECTS 
-> The global JavaScript objects represent things that the JavaScript language needs to create a model of. For example, there is an object that deals only with dates and times. 
+> The global JavaScript objects represent things that the JavaScript language needs to create a model of.
 
 `An object is a series of variables and functions that represent something from the world around us.`
 
