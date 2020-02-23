@@ -1,4 +1,4 @@
-# Domain Modeling
+# The Domain Modeling
 > Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. 
 
 ## Define a constructor and initialize properties
