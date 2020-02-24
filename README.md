@@ -11,4 +11,8 @@
 | class-05 | [class05-url](https://esraamamoun.github.io/reading-notes/class-05) |
 | class-06 | [class06-url](https://esraamamoun.github.io/reading-notes/class-06) |
 | class-07 | [class07-url](https://esraamamoun.github.io/reading-notes/class-07) |
+| class-08 | [class08-url](https://esraamamoun.github.io/reading-notes/class-08) |
+| class-09 | [class09-url](https://esraamamoun.github.io/reading-notes/class-09) |
+| class-10 | [class10-url](https://esraamamoun.github.io/reading-notes/class-10) |
+
 
