@@ -42,6 +42,6 @@
 `The <video> element contains two <source> elements so that different formats can be loaded depending on the browser viewing the site.`
 
 **The controls HTML is probably the most interesting:**
->We have four <button>s — play/pause, stop, rewind, and fast forward.
->Each <button> has a class name, a data-icon attribute for defining what icon should be shown on each button (we'll show how this works in the below section), and an aria-label attribute to provide an understandable description of each button, since we're not providing a human-readable label inside the tags. The contents of aria-label attributes are read out by screenreaders when their users focus on the elements that contain them.
->There is also a timer <div>, which will report the elapsed time when the video is playing. Just for fun, we are providing two reporting mechanisms — a <span> containing the elapsed time in minutes and seconds, and an extra <div> that we will use to create a horizontal indicator bar that gets longer as the time elapses. 
+> <button>We have four buttons — play/pause, stop, rewind, and fast forward.
+>Each button has a class name, a data-icon attribute for defining what icon should be shown on each button (we'll show how this works in the below section), and an aria-label attribute to provide an understandable description of each button, since we're not providing a human-readable label inside the tags. The contents of aria-label attributes are read out by screenreaders when their users focus on the elements that contain them.
+>There is also a timer  div, which will report the elapsed time when the video is playing. Just for fun, we are providing two reporting mechanisms — a span containing the elapsed time in minutes and seconds, and an extra div that we will use to create a horizontal indicator bar that gets longer as the time elapses. 
