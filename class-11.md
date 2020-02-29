@@ -35,7 +35,7 @@
 - Flash is a very popular technology used to add animations, video, and audio to websites, but now it is not supported on iPhone or iPad, and it is not used much.
 
 ## HTML5 video and audio
-- The <video> and <audio> elements allow us to embed video and audio into web pages.
+- The video and audio elements allow us to embed video and audio into web pages.
 
 * The HTMLMediaElement API makes a wealth of functionality available for creating simple video and audio players.
 
