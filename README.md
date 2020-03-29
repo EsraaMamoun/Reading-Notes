@@ -25,3 +25,4 @@
 | Class 301 | Link |
 | --------- | ---- |
 | class-01 | [class01-url](https://esraamamoun.github.io/reading-notes/class-301-01) |
+| class-02 | [class02-url](https://esraamamoun.github.io/reading-notes/class-301-02) |
