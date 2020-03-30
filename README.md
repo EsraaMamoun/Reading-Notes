@@ -26,3 +26,4 @@
 | --------- | ---- |
 | class-01 | [class01-url](https://esraamamoun.github.io/reading-notes/class-301-01) |
 | class-02 | [class02-url](https://esraamamoun.github.io/reading-notes/class-301-02) |
+| class-03 | [class03-url](https://esraamamoun.github.io/reading-notes/class-301-03) |
