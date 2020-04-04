@@ -29,3 +29,4 @@
 | class-03 | [class03-url](https://esraamamoun.github.io/reading-notes/class-301-03) |
 | class-04 | [class04-url](https://esraamamoun.github.io/reading-notes/class-301-04) |
 | class-05 | [class05-url](https://esraamamoun.github.io/reading-notes/class-301-05) |
+| class-06 | [class06-url](https://esraamamoun.github.io/reading-notes/class-301-06) |
