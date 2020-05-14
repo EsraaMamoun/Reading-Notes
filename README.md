@@ -45,3 +45,4 @@
 | Class 401 | Link |
 | --------- | ---- |
 | class-00 | [class00-url](https://esraamamoun.github.io/reading-notes/class-401-00) |
+| class-01 | [class01-url](https://esraamamoun.github.io/reading-notes/class-401-01) |
