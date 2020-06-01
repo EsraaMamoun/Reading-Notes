@@ -52,4 +52,4 @@
 | class-05 | [class05-url](https://esraamamoun.github.io/reading-notes/class-401-05) |
 | class-06 | [class06-url](https://esraamamoun.github.io/reading-notes/class-401-06) |
 | class-07 | [class07-url](https://esraamamoun.github.io/reading-notes/class-401-07) |
-
+| class-08 | [class08-url](https://esraamamoun.github.io/reading-notes/class-401-08) |
