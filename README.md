@@ -64,4 +64,4 @@
 | class-17 | [class17-url](https://esraamamoun.github.io/reading-notes/class-401-17) |
 | class-18 | [class18-url](https://esraamamoun.github.io/reading-notes/class-401-18) |
 | class-19 | [class19-url](https://esraamamoun.github.io/reading-notes/class-401-19) |
-| class-20 | [class20-url](https://esraamamoun.github.io/reading-notes/class-401-20) |
+| class-21 | [class21-url](https://esraamamoun.github.io/reading-notes/class-401-21) |
