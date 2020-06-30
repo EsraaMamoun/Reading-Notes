@@ -67,3 +67,4 @@
 | class-26 | [class26-url](https://esraamamoun.github.io/reading-notes/class-401-26) |
 | class-27 | [class27-url](https://esraamamoun.github.io/reading-notes/class-401-27) |
 | class-28 | [class28-url](https://esraamamoun.github.io/reading-notes/class-401-28) |
+| class-29 | [class29-url](https://esraamamoun.github.io/reading-notes/class-401-29) |
