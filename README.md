@@ -75,3 +75,4 @@
 | class-32 | [class32-url](https://esraamamoun.github.io/reading-notes/class-401-32) |
 | class-33 | [class33-url](https://esraamamoun.github.io/reading-notes/class-401-33) |
 | class-34 | [class34-url](https://esraamamoun.github.io/reading-notes/class-401-34) |
+| class-35 | [class35-url](https://esraamamoun.github.io/reading-notes/class-401-35) |
