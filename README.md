@@ -77,3 +77,4 @@
 | class-34 | [class34-url](https://esraamamoun.github.io/reading-notes/class-401-34) |
 | class-35 | [class35-url](https://esraamamoun.github.io/reading-notes/class-401-35) |
 | class-36 | [class36-url](https://esraamamoun.github.io/reading-notes/class-401-36) |
+| class-37 | [class37-url](https://esraamamoun.github.io/reading-notes/class-401-37) |
